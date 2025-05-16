@@ -13,3 +13,5 @@ You can use this repository to file issues for GitHub Copilot for Eclipse. We we
 * Up-vote a feature or request a new one.
 * Search for existing issues already reported for potential workarounds.
 * Report a problem if you don't find what you are looking for.
+
+You may also join the discussion in the [community channel](https://github.com/orgs/community/discussions/151288).
