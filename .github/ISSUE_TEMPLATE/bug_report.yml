@@ -31,7 +31,7 @@ body:
     attributes:
       label: GitHub Copilot plugin version
       description: |
-        You can check the versions from Settings -> Plugins -> Installed  
+        You can check the version from Help -> About Eclipse IDE -> Installation Details
 
   - type: input
     id: ide_version
